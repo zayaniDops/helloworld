@@ -1,4 +1,4 @@
-# How it Works Modified 1.1
+# How it Works Modified 1.2
 
 Docker builds an image containing the application in src/ and all of its dependencies by using the Dockerfile contained in this repository.
 
